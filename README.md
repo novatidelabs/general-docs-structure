@@ -72,7 +72,7 @@ Each directory has a single, well-defined responsibility.
 
 ```
 00-executive/
-├── overview                    # Business context, vision, Phase 1 objectives, definition of done
+├── overview                    # Business context, vision, definition of done
 ├── target-users                # Who the system is for
 ├── use-cases                   # The primary jobs-to-be-done
 ├── scope                       # In-scope vs out-of-scope features, boundaries, constraints
