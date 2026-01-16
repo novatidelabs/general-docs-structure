@@ -1,4 +1,4 @@
-# System-of-Systems Documentation Standard
+# System-of-Systems Documentation Standard V0.1
 
 (Microservices-Oriented Projects)
 
@@ -66,7 +66,7 @@ Each directory has a single, well-defined responsibility.
 
 ## 00 — Executive & Alignment
 
-**Audience:** Leadership, architects, product, external stakeholders  
+**Audience:** Leadership, architects, product, external audience  
 **Purpose:** Why the system exists and what success means
 
 **Definition Order:**
